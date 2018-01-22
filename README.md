@@ -1,7 +1,7 @@
 
 
 Program przeznaczony jest do zastosowania w obszarze logistyki i transportu.
-Program pomaga użytkownikowi zaplanować ułożenie ładunku na standardowej naczepie typu "TIR". 
+Pomaga użytkownikowi zaplanować ułożenie ładunku na standardowej naczepie typu "TIR". 
 Użytkownik posiada dwie możliwość wprowadzenia danych o ładunku (wymiary paczek, waga):
 A. Eksport pliku tekstowego z danymi,
 B. Manualne wprowadzenie danych o każdej jednostce ładunku.
