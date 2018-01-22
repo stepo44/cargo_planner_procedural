@@ -17,12 +17,12 @@ Algorytm składa się z łańcucha następujących po sobie procedur, czyli wywo
 
 ENGLISH
 
-The program is applicable in logistics area. It helps user (transport planner) to draft a cargo placement on standard trailer truck 24t. 
-User has two options to input a cargo data (dimensions, weight):
+The program is applicable in the logistics area. It helps user (transport planner) to draft a cargo placement on standard trailer truck 24t. 
+User has two options to input cargo data (dimensions, weight):
 1. Upload of a text file,
 2. Manual data entry of each package.
 
 The algorythm is a set of procedures which are functions, called one after another. The functions flow goes as follow:
-1. the analysis of input data.
+1. Input data cleaning.
 2. Data sorting.
 3. Output to user.
